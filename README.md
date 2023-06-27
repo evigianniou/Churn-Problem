@@ -1,6 +1,8 @@
 # Churn-Problem
 Solving the Churn Problem of Maastricht Telecom
+
 Problem
+
 The problem of churn is a problem when a number of individuals move out of a collective
 group. It is one of the main problems that determine the steady-state level of customers
 in any type of business.
